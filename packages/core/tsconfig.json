@@ -1,0 +1,4 @@
+{
+	"extends": "@acme/tsconfig/base.json",
+	"include": ["src", "../../reset.d.ts", "drizzle.config.ts"]
+}
